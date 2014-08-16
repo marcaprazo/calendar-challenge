@@ -22,15 +22,6 @@ You will be given an array of event data (specs below) and are supposed to rende
 ## The HTML and CSS
 
 There are 3 main files on this repo. 
-> .
-> |
-> |- index.html
-> |
-> |- css
-> ||-main.css
-> |
-> |- js
-> ||- main.js
 
 You probably won't need to change `index.html` or `main.css` but feel free to do so. Maybe changing the padding, margin or borders will make your calculations easier. If so, feel free to modify the CSS, but try not to break the overall look of the stickers and agenda. 
 
